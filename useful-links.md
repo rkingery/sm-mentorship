@@ -62,3 +62,10 @@
 
 ## Job Stuff
 - SM Mentee Contents (lots of useful stuff here!): https://app.sharpestminds.com/static-page/mentee-contents
+
+## Interview Prep
+- Don't get suckered into paying for any of this stuff. If something is not free, go somewhere else. You can almost always google the exact same question and find a place with an answer for free.
+- Coding interview prep. For data science positions, focus mostly on the easy to medium difficulty array/string/hash-table/dictionary problems.
+    - Leetcode: https://leetcode.com/
+    - Hackerrank: https://hackerrank.com/
+    - AlgoExpert: https://www.algoexpert.io/questions
