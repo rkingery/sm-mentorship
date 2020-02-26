@@ -34,7 +34,7 @@ Note I am not the right mentor for you if you are mainly interested in other dat
 All that said, you should know roughly what each of these position titles mean. If not, I highly encourage you to google them before hand so you know what you're getting yourself into. This [report](https://workera.ai/candidates/report/) may help you understand data science roles better.
 
 ## What type of projects do your mentees work on?
-I'm willing to advice mentees on a broad range of data science projects. Anything involving analyzing and building tools around: tabular data (SQL), text (NLP), images or video (computer vision), speech, time series, etc. I do strongly prefer that projects have a large machine learning component to them.
+I'm willing to advise mentees on a broad range of data science projects. Anything involving analyzing and building tools around: tabular data (SQL), text (NLP), images or video (computer vision), speech, time series, etc. I do strongly prefer that projects have a large machine learning component to them.
 
 Some of my past mentees have worked on applications involving:
 - Translating Russian handwritten text to English using OCR and NLP

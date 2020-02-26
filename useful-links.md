@@ -43,18 +43,18 @@
 - Do not pay for any of these courses! The certifications are mostly worthless and not worth paying for. Just audit the courses.
 - At a minimum you should go through all the courses and videos highlighted in bold, making sure to do any coding exercises where given.
 - Coursera: Andrew Ng has several useful MOOCs on Coursera that teach ML with a first-principles / bottom-up approach. The bolded ones are most useful.
-    - *Intro to Machine Learning:* https://www.coursera.org/learn/machine-learning
+    - **Intro to Machine Learning:** https://www.coursera.org/learn/machine-learning
         - Note the course examples use Matlab instead of Python. See [here](https://github.com/jellis18/ML-Course-Solutions) for the same assignments converted to Jupyter Notebooks.
-    - *Neural Networks and Deep Learning:* https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning
-    - *Improving Deep Neural Networks:* https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning
+    - **Neural Networks and Deep Learning:** https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning
+    - **Improving Deep Neural Networks:** https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning
     - Structuring Machine Learning Projects: https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning
     - Convolutional Neural Networks: https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning
         - Most useful for those doing computer vision projects.
     - Sequence Models: https://www.coursera.org/learn/nlp-sequence-models
         - Most useful for those doing NLP or time series projects.
 - Fastai: These are very good for learning state of the art ML quickly, from top-down / applied point of view. The bolded ones are most useful.
-    - *Classical Machine Learning:* http://course18.fast.ai/ml
-    - *Deep Learning 1:* http://course.fast.ai/
+    - **Classical Machine Learning:** http://course18.fast.ai/ml
+    - **Deep Learning 1:** http://course.fast.ai/
     - Deep Learning 2: https://course.fast.ai/part2
     - Classical NLP: https://www.fast.ai/2019/07/08/fastai-nlp/
     - Computational Linear Algebra: https://github.com/fastai/numerical-linear-algebra/blob/master/README.md
