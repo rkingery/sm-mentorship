@@ -5,6 +5,11 @@
 - UCI ML Repository: https://archive.ics.uci.edu/ml/datasets.php
 - Scraping data from the web with scrapy: https://towardsdatascience.com/a-minimalist-end-to-end-scrapy-tutorial-part-i-11e350bcdec0
 
+## Hosting and Deploying ML Models
+- Heroku tutorial: https://towardsdatascience.com/designing-a-machine-learning-model-and-deploying-it-using-flask-on-heroku-9558ce6bde7b
+- Cortex: https://github.com/cortexlabs/cortex
+- Fastai has several examples here (see Production tab): https://course.fast.ai/
+
 ## Version Control
 - Getting the `.gitignore` to work: https://stackoverflow.com/questions/25436312/gitignore-not-working/25436481
 - Useful git cheatsheet: https://www.git-tower.com/blog/git-cheat-sheet/
@@ -59,6 +64,7 @@
     - Classical NLP: https://www.fast.ai/2019/07/08/fastai-nlp/
     - Computational Linear Algebra: https://github.com/fastai/numerical-linear-algebra/blob/master/README.md
 - End to End Machine Learning: https://www.reddit.com/r/learnmachinelearning/comments/em7ej7/end_to_end_machine_learning_from_data_collection
+- A lecture from Andrew Ng on how to create ML projects: https://www.youtube.com/watch?v=JUJNGv_sb4Y&feature=youtu.be
 
 ## Job Stuff
 - SM Mentee Contents (lots of useful stuff here!): https://app.sharpestminds.com/static-page/mentee-contents
