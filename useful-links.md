@@ -3,7 +3,7 @@
 ## Finding Data for Projects
 - Kaggle: https://www.kaggle.com/datasets
 - UCI ML Repository: https://archive.ics.uci.edu/ml/datasets.php
-- Scraping data from the web with scrapy: https://towardsdatascience.com/a-minimalist-end-to-end-scrapy-tutorial-part-i-11e350bcdec0
+- Web Scraping: https://towardsdatascience.com/a-minimalist-end-to-end-scrapy-tutorial-part-i-11e350bcdec0
 
 ## Hosting and Deploying ML Models
 - Heroku tutorial: https://towardsdatascience.com/designing-a-machine-learning-model-and-deploying-it-using-flask-on-heroku-9558ce6bde7b
@@ -22,6 +22,7 @@
 ## Python
 - Official python style guide: https://www.python.org/dev/peps/pep-0008/
 - Creating a python package: https://realpython.com/pypi-publish-python-package/
+- More on building python packages: https://towardsdatascience.com/how-to-build-your-first-python-package-6a00b02635c9
 - Python project best practices: https://sourcery.ai/blog/python-best-practices/
 - Working with files and paths: https://realpython.com/python-pathlib/
 
@@ -34,7 +35,7 @@
 
 ## Other
 - Interact with google drive using python: https://pypi.org/project/gdown/
-- Tool for working with APIs: https://www.postman.com/
+- Useful tool for working with APIs: https://www.postman.com/
 - Python code profiler: https://jakevdp.github.io/PythonDataScienceHandbook/01.07-timing-and-profiling.html
 - Rules of ML (words of wisdom): http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
 - Optimizing PyTorch Code: https://towardsdatascience.com/7-tips-for-squeezing-maximum-performance-from-pytorch-ca4a40951259
@@ -54,7 +55,7 @@
 - Note: **I generally make all mentees take all of the bolded courses.**
 - Coursera: Andrew Ng has several useful MOOCs on Coursera that teach ML with a first-principles / bottom-up approach.
     - **Intro to Machine Learning:** https://www.coursera.org/learn/machine-learning
-        - Note the course examples use Matlab instead of Python. See [here](https://github.com/jellis18/ML-Course-Solutions) for the same assignments converted to Jupyter Notebooks.
+        - Note the course examples use Matlab instead of Python. See [here](https://github.com/dibgerge/ml-coursera-python-assignments) for the same assignments converted to Jupyter Notebooks. You can even submit assignments as notebooks here!
     - **Neural Networks and Deep Learning:** https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning
     - **Improving Deep Neural Networks:** https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning
     - Structuring Machine Learning Projects: https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning
