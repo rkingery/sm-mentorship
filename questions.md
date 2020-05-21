@@ -15,6 +15,8 @@ For the purposes of the mentorship you can work anywhere you like so long as you
 
 As far as job and networking purposes go: I understand if you have geographic limitations on where you want to work, for personal reasons or whatever, and I will try to accomodate. That being said, I strongly encourage you to keep an open mind about where your job is located. Data science jobs do tend to be highly concentrated in a few big cities still (SF Bay Area, New York, Seattle, Boston, and Toronto especially), so your odds of getting a job will be *much* better if you're flexibile on location. Note that my own personal network is best in the SF Bay Area, but I'll try my best to accomodate. You will also have access to the growing SharpestMinds network, which has a strong presence in many of the above cities mentioned (especially the Bay Area and Toronto).
 
+Note: One thing I do have to insist on is that you hold either citizenship or a visa in the U.S. or Canada. This is due to 1) legal reasons regarding where SharpestMinds can operate as a company, and 2) the fact that my and SM's ability to help you network in a different country than these is severely diminished.
+
 ## When will I get a job?
 This is a tough one to answer, as it depends a lot on you and your motivations, as well as a significant luck factor. Typically, I like to target mentees getting a job within 6 months of the end of the mentorship. This is because the skills you learn in the mentorship have a shelf life. Data science is a fast-evolving field. Skills change. Needs change. Also, your interview skills atrophy quickly if you're not actively job hunting, and your networks become less valuable with time. For this reason, *I only am interested in mentees who are interested in getting a job within 6 months of the end of the mentorship*. If you plan to take longer, please wait until you're ready before applying.
 
@@ -29,7 +31,7 @@ Please note that the project is (mostly) necessary, but *not* sufficient to get 
 ## What types of roles do you mentor for?
 I like to mentor people who are specifically interested in data science positions. Such positions may include: data scientist, machine learning engineer, machine learning researcher, applied scientist, natural language processing engineer, or computer vision engineer.
 
-Note I am not the right mentor for you if you are mainly interested in other data-related positions, e.g. data engineer, database engineer, dev-ops engineer, or business analyst. If you aren't interested in data-related positions *at all* the SharpestMinds program is probably not for you (e.g. if you're interested in being a front-end or web developer).
+Note I am not the right mentor for you if you are mainly interested in other data-related positions, e.g. data engineer, database engineer, dev-ops engineer, backend engineer, software engineer (non machine learning), or business analyst. If you aren't interested in data-related positions *at all* the SharpestMinds program is probably not for you (e.g. if you're interested in being a front-end or web developer).
 
 All that said, you should know roughly what each of these position titles mean. If not, I highly encourage you to google them before hand so you know what you're getting yourself into. This [report](https://workera.ai/candidates/report/) may help you understand data science roles better.
 
@@ -40,6 +42,7 @@ Some of my past mentees have worked on applications involving:
 - Translating Russian handwritten text to English using OCR and NLP
 - Estimating the size distribution of electron microscopy imaged particles using computer vision
 - Predicting student graduation success using time series methods
+- Predict and understand instances of COVID-19 related misinformation.
 
 If you have an idea that seems vaguely data science related, let's talk about it. As long as we both think you can complete the project in a couple months or so, and you can find the data needed to do the project, I'm very flexible.
 
@@ -69,5 +72,5 @@ On top of learning how to build an end-to-end working data science tool in your 
 - How to answer interview questions for data science and software-related positions.
 
 ## I like what I've read and am interested in discussing a mentorship with you. How can I do this?
-Send me an email at `rkinger@g.clemson.edu`. This is my personal email. You can also message me directly in the SharpestMinds app, though I check it much less frequently. You can also reach out to me via LinkedIn [here](www.linkedin.com/in/rkinery).
+Send me an email at `rkinger@g.clemson.edu`. This is my personal email. You can also message me directly in the SharpestMinds app, though I check it much less frequently. Please do not message me multiple ways, and please do not spam me! Pick one method and stick to it, and be courteous with follow-ups. I do not like being spammed.
 
