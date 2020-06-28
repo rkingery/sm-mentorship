@@ -25,6 +25,7 @@
 - More on building python packages: https://towardsdatascience.com/how-to-build-your-first-python-package-6a00b02635c9
 - Python project best practices: https://sourcery.ai/blog/python-best-practices/
 - Working with files and paths: https://realpython.com/python-pathlib/
+- Generating HTML docstrings with Sphinx: https://pythonhosted.org/an_example_pypi_project/sphinx.html
 
 ## Testing
 - Using pytest for unit testing: https://docs.pytest.org/en/latest/
@@ -63,6 +64,8 @@
         - Most useful for those doing computer vision projects.
     - Sequence Models: https://www.coursera.org/learn/nlp-sequence-models
         - Most useful for those doing NLP or time series projects.
+    - Classification Vector Spaces in NLP: https://www.coursera.org/learn/classification-vector-spaces-in-nlp
+        - Useful for people trying to break into NLP jobs. There are several follow-ons to this course as well.
 - Fastai: These are very good for learning state of the art ML quickly, from top-down / applied point of view. The bolded ones are most useful.
     - **Classical Machine Learning:** http://course18.fast.ai/ml
     - **Deep Learning 1:** http://course.fast.ai/
