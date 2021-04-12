@@ -40,7 +40,7 @@ This page contains some information to help my new mentees get started with the 
 - Create a brand new Github repository ("repo") for your project. Add me as a contributor to the repo so I can code review your project later on. Give it a descriptive name, preferably all lower case with no spaces (this is the convention for python packages, which will make it easier to create one later on).
 - Use the [cookiecutter](https://github.com/cookiecutter/cookiecutter) package to create a starting template for your project. Note you won't use *most* of what it creates. I'll tell you in our first meeting what you can delete and what you should keep. Alternatively, you can clone a project from one of my prior mentees and delete all the code.
 - For a quick reference to your standard git workflow, see this [blog post and cheatsheet](https://jameschambers.medium.com/using-git-in-a-team-a-cheatsheet-83619b8de732).
-- - I will also keep your Github project repo synched with Slack so I can keep track of what you're up to from there.
+- I will also keep your Github project repo synched with Slack so I can keep track of what you're up to from there.
 
 ## Anaconda and Python
 - Anaconda is one of the main package management and virtual environment tools for python. It's probably the most common such tool used in the data science community for working with python environments. We will use it to make sure python and any packages you need will install and work correctly and consistently on your system and on the cloud. Any interaction you do with python should be via Anaconda in some way.
@@ -60,5 +60,7 @@ This page contains some information to help my new mentees get started with the 
 
 ## Other Comments
 - SM maintains a wealth of information that is useful to mentees on this [page](https://app.sharpestminds.com/static-page/mentee-contents), including info on how to interview, how to apply for jobs, common questions, etc. Feel free to check it out.
-
+- For basics on how to set the project up and what to think about as you do so, see my [projects](https://github.com/rkingery/sm-mentorship/blob/master/project.md) page.
+- For common questions I often get asked by new and aspiring mentees, see my [FAQ](https://github.com/rkingery/sm-mentorship/blob/master/questions.md) page.
+- For other info I and past mentees have compiled through my mentorships, see my useful links page [here](https://github.com/rkingery/sm-mentorship/blob/master/useful-links.md). It also contains info for the other courses you'll need to work through later on.
 
