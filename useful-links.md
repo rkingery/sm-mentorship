@@ -14,6 +14,7 @@
 - Getting the `.gitignore` to work: https://stackoverflow.com/questions/25436312/gitignore-not-working/25436481
 - Useful git cheatsheet: https://www.git-tower.com/blog/git-cheat-sheet/
 - Git workflows and branches: https://medium.com/@jameschambers/using-git-in-a-team-a-cheatsheet-83619b8de732
+- Squashing commits: https://gist.github.com/longtimeago/f7055aa4c3bba8a62197
 
 ## Docker
 - Cheatsheet: https://www.kdnuggets.com/2018/08/docker-cheat-sheet.html
@@ -31,6 +32,7 @@
 - Using pytest for unit testing: https://docs.pytest.org/en/latest/
 - Using pytest-cov for test coverage: https://pytest-cov.readthedocs.io
 - Using flake8 to enforce python style: https://flake8.pycqa.org/en/latest/
+- Add a flake8 config: https://flake8.pycqa.org/en/2.5.5/config.html
 - Testing flask code: https://www.patricksoftwareblog.com/testing-a-flask-application-using-pytest/
 - Intro to CI: https://realpython.com/python-continuous-integration/
 
