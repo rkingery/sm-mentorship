@@ -1,7 +1,13 @@
 # Mentorship Info
 
-This page contains info related to my mentorship role in the SharpestMinds program. It is mainly written for current mentees and people interested in becoming a future mentee of mine. For more general info on mentorships, like what they are and how they work, see [here](https://www.sharpestminds.com/).
+This page contains info related to my mentorship role in the SharpestMinds program. It's written mainly written for current or aspiring mentees. For more general information on these mentorships see the SM website [here](https://www.sharpestminds.com/).
 
-For those interested in becoming a future mentee, see the `questions.md` page to get many of your questions answered. You can also reach out to me directly at my personal email: `rkinger@g.clemson.edu`. Note you must be accepted into the SharpestMinds program before you can take me on as a mentor, so please do this first!
+For those interested in becoming a future mentee:
+- You must be accepted into the SharpestMinds program before you can take me on as a mentor, so please do this before reaching out.
+- See the `questions.md` page to get many of your questions answered.
+- See my mentor [profile page](https://app.sharpestminds.com/u/KNhe8TXRKaA6zXmfG) on SM. You will need an SM account set up to see this.
+- You can also reach out to me directly at one of my personal emails: `rkinger@g.clemson.edu` or `rskingery@gmail.com`.
 
-For current mentees, please message me either via email or Slack for any questions or concerns you have.
+For current or past mentees of mine, please message me either via email or Slack for any questions or concerns you have.
+
+For others in the SM community who want to reach out, please do so on the SM main Slack channel.
