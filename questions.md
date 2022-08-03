@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
 ## How long will the mentorship be?
-Typically, mentorships with me last anywhere from 8-12 weeks. I like to tell mentees that mentorships last `8 +/- O(weeks)`, as I have a lot of flexibility with deadlines. Things do come up on your end and my end that require shuffling things around. That being said, the sooner your project finishes the sooner you'll be able to maximizes your chances of getting a job offer.
+Typically, mentorships with me last anywhere from 4-6 months. There's a wide variability in mentorship length since I have a lot of flexibility with deadlines. Things do come up on your end and my end that require shuffling things around. That being said, the sooner your project finishes the sooner you'll be able to maximizes your chances of getting a job offer.
 
 ## How much will the mentorship cost me?
 See the SharpestMinds FAQ [here](https://www.sharpestminds.com/faq) for general details. The _typical_ rate mentors, including myself, charge is 5% of your first year's salary once you get a data science-related job. On top of that, the admins take about another 3-4% (see the ISA for details) for operating costs. This means something like ~8-9% of your first year's salary. This is generally paid monthly, starting your 2nd or 3rd month after your new job.
@@ -38,11 +38,12 @@ All that said, you should know roughly what each of these position titles mean. 
 ## What type of projects do your mentees work on?
 I'm willing to advise mentees on a broad range of data science projects. Anything involving analyzing and building tools around: tabular data (SQL), text (NLP), images or video (computer vision), speech, time series, etc. I do strongly prefer that projects have a large machine learning component to them.
 
-Some of my past mentees have worked on applications involving:
+My mentees have worked on applications involving:
 - Translating Russian handwritten text to English using OCR and NLP
 - Estimating the size distribution of electron microscopy imaged particles using computer vision
-- Predicting student graduation success using time series methods
-- Predict and understand instances of COVID-19 related misinformation.
+- Predict and understand instances of COVID-19 related misinformation
+- Creating a Jupyter widget to turn handwritten math into rendered LaTeX for note taking
+- Using text to speech deep learning to convert an e-book into an audiobook
 
 If you have an idea that seems vaguely data science related, let's talk about it. As long as we both think you can complete the project in a couple months or so, and you can find the data needed to do the project, I'm very flexible.
 
@@ -72,5 +73,4 @@ On top of learning how to build an end-to-end working data science tool in your 
 - How to answer interview questions for data science and software-related positions.
 
 ## I like what I've read and am interested in discussing a mentorship with you. How can I do this?
-Send me an email at `rkinger@g.clemson.edu`. This is my personal email. You can also message me directly in the SharpestMinds app, though I check it much less frequently. Please do not message me multiple ways, and please do not spam me! Pick one method and stick to it, and be courteous with follow-ups. I do not like being spammed.
-
+Send me an email. You can also message me directly in the SharpestMinds app, though I check it much less frequently. Please do not message me multiple ways, and please do not spam me! Pick one method and stick to it, and be courteous with follow-ups. I do not like being spammed.
