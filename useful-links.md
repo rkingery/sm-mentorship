@@ -5,6 +5,9 @@
 - UCI ML Repository: https://archive.ics.uci.edu/ml/datasets.php
 - Web Scraping: https://towardsdatascience.com/a-minimalist-end-to-end-scrapy-tutorial-part-i-11e350bcdec0
 
+## Machine Learning
+- Practical Advice for Training Neural Networks: https://karpathy.github.io/2019/04/25/recipe/
+
 ## Hosting and Deploying ML Models
 - Heroku tutorial: https://towardsdatascience.com/designing-a-machine-learning-model-and-deploying-it-using-flask-on-heroku-9558ce6bde7b
 - Cortex: https://github.com/cortexlabs/cortex
@@ -55,28 +58,32 @@
 ## Videos and Courses
 - Do not pay for any of these courses! The certifications are mostly worthless and not worth paying for. Just audit the courses.
 - At a minimum you should go through all the courses and videos highlighted in bold, making sure to do any coding exercises where given.
-- Note: **I generally make all mentees take all of the bolded courses.**
+- I generally require that mentees take all of the **bolded courses** below. The rest are optional.
 - Coursera: Andrew Ng has several useful MOOCs on Coursera that teach ML with a first-principles / bottom-up approach.
-    - **Intro to Machine Learning:** https://www.coursera.org/learn/machine-learning
+    - Machine Learning (ARCHIVED): https://www.coursera.org/learn/machine-learning
         - Note the course examples use Matlab instead of Python. See [here](https://github.com/dibgerge/ml-coursera-python-assignments) for the same assignments converted to Jupyter Notebooks. You can even submit assignments as notebooks here!
+    - **Supervised Machine Learning: Regression and Classification:** https://www.coursera.org/learn/machine-learning
+    - **Advanced Learning Algorithms:** https://www.coursera.org/learn/advanced-learning-algorithms
+    - **Unsupervised Learning**, Recommenders, Reinforcement Learning: https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning
+        - I encourage mentees to at least go through the section on clustering, as that may come up in ML interviews. The sections on recommender systems and reinforcement learning are more tangential and completely optional.
     - **Neural Networks and Deep Learning:** https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning
     - **Improving Deep Neural Networks:** https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning
     - Structuring Machine Learning Projects: https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning
     - Convolutional Neural Networks: https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning
-        - Most useful for those doing computer vision projects.
+        - Required for mentees doing computer vision or audio projects.
     - Sequence Models: https://www.coursera.org/learn/nlp-sequence-models
-        - Most useful for those doing NLP or time series projects.
+        - Required for mentees doing NLP or audio projects.
     - Classification Vector Spaces in NLP: https://www.coursera.org/learn/classification-vector-spaces-in-nlp
-        - Useful for people trying to break into NLP jobs. There are several follow-ons to this course as well.
+        - Perhaps useful for people trying to break into NLP jobs. There are several follow-ons to this course as well.
 - Fastai: These are very good for learning state of the art ML quickly, from top-down / applied point of view. The bolded ones are most useful.
-    - **Classical Machine Learning:** http://course18.fast.ai/ml
+    - Classical Machine Learning: http://course18.fast.ai/ml
     - **Deep Learning 1:** http://course.fast.ai/
     - Deep Learning 2: https://course.fast.ai/part2
     - Classical NLP: https://www.fast.ai/2019/07/08/fastai-nlp/
     - Computational Linear Algebra: https://github.com/fastai/numerical-linear-algebra/blob/master/README.md
 - MIT OCW:
-    - **Intro to CS using Python, Part 1:** https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
-    - **Intro to CS using Python, Part 2:** https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
+    - **Intro to CS and Python, Part 1:** https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
+    - Intro to CS and Python, Part 2: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
     - Introduction to Algorithms (advanced!): https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
 - End to End Machine Learning: https://www.reddit.com/r/learnmachinelearning/comments/em7ej7/end_to_end_machine_learning_from_data_collection
 - A lecture from Andrew Ng on how to create ML projects: https://www.youtube.com/watch?v=JUJNGv_sb4Y&feature=youtu.be
@@ -85,8 +92,10 @@
 - SM Mentee Contents (lots of useful stuff here!): https://app.sharpestminds.com/static-page/mentee-contents
 
 ## Interview Prep
-- Don't get suckered into paying for any of this stuff. If something is not free, go somewhere else. You can almost always google the exact same question and find a place with an answer for free.
+- Note that you don't have to pay for interview prep. If something is not free, you're free to go somewhere else. The paid courses listed are perhaps more efficient in structuring prep, but are by no means required or encouraged.
+- If a solution isn't free, you can almost always google the exact same question and find a place with an answer for free.
 - Coding interview prep. For data science positions, focus mostly on the easy to medium difficulty array/string/hash-table/dictionary problems.
     - Leetcode: https://leetcode.com/
     - Hackerrank: https://hackerrank.com/
     - AlgoExpert: https://www.algoexpert.io/questions
+    - AlgoMonster: https://algo.monster/
